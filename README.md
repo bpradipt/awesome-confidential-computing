@@ -69,3 +69,5 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 ## Misc
 
 * [Intel Confidential Computing Zoo](https://github.com/intel/confidential-computing-zoo)
+* [Awesome SGX Opensource](https://github.com/Maxul/Awesome-SGX-Open-Source)
+* [Awesome SGX](https://github.com/Liaojinghui/awesome-sgx)
