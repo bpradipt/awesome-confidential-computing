@@ -40,6 +40,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 
 * [Apache Teaclave](https://github.com/apache/incubator-teaclave)
 * [CNCF Confidential Containers](https://github.com/confidential-containers)
+* [dstack](https://github.com/Dstack-TEE/dstack)
 * [Enarx](https://github.com/enarx/enarx)
 * [Google Asylo](https://github.com/google/asylo)
 * [Inclavare containers](https://github.com/inclavare-containers/inclavare-containers)
