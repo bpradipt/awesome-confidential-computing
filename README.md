@@ -59,6 +59,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Occlum Library OS](https://github.com/occlum/occlum)
 * [Openenclave SDK](https://github.com/openenclave/openenclave)
 * [Veracruz](https://github.com/veracruz-project/veracruz)
+* [Hypervisor (ARM64 S-EL2 SPMC)](https://github.com/willamhou/hypervisor) - ARM64 Type-1 bare-metal hypervisor and S-EL2 SPMC in no_std Rust. Implements FF-A v1.1 memory sharing with Stage-2 PTE page ownership tracking (pKVM-compatible), manages Secure Partitions at S-EL1, and coexists with pKVM at NS-EL2
 
 
 ## Attestation
