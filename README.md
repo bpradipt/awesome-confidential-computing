@@ -86,7 +86,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Red Hat: AI Inference with Confidential Computing](https://next.redhat.com/2025/10/23/enhancing-ai-inference-security-with-confidential-computing-a-path-to-private-data-inference-with-proprietary-llms/)
 * [Red Hat: Confidential Containers with NVIDIA Accelerated Computing](https://www.redhat.com/en/blog/ai-meets-security-poc-run-workloads-confidential-containers-using-nvidia-accelerated-computing)
 * [dstack](https://github.com/Dstack-TEE/dstack)
-* [Confidential AI - End-to-end private OpenClaw agents with confidential inference in AMD SEV-SNP TEEs](https://confidential.ai)
+* [Confidential AI - Private, verifiable AI inference, agents, and training. Hosted and self-hosted.](https://confidential.ai)
 
 
 ## Security Threats and Vulnerabilities
