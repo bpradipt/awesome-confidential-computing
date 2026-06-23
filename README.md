@@ -87,6 +87,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Red Hat: Confidential Containers with NVIDIA Accelerated Computing](https://www.redhat.com/en/blog/ai-meets-security-poc-run-workloads-confidential-containers-using-nvidia-accelerated-computing)
 * [dstack](https://github.com/Dstack-TEE/dstack)
 * [Confidential AI - Private, verifiable AI inference, agents, and training. Hosted and self-hosted.](https://confidential.ai)
+* [venice-e2ee-proxy](https://github.com/AxLabs/venice-e2ee-proxy) - Run-it-locally proxy that adds end-to-end encryption to Venice.ai API calls. Plug any OpenAI-compatible agent or software without changes — requests are encrypted with verified TEE attestation (Intel TDX + NVIDIA GPU).
 
 
 ## Security Threats and Vulnerabilities
