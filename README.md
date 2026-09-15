@@ -87,6 +87,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Red Hat: Confidential Containers with NVIDIA Accelerated Computing](https://www.redhat.com/en/blog/ai-meets-security-poc-run-workloads-confidential-containers-using-nvidia-accelerated-computing)
 * [dstack](https://github.com/Dstack-TEE/dstack)
 * [Confidential AI - Private, verifiable AI inference, agents, and training. Hosted and self-hosted.](https://confidential.ai)
+* [Confidential Inference Directory](https://confidentialinference.net/) - Compare TEE-based AI inference providers by models, pricing, and live attestation evidence.
 * [venice-e2ee-proxy](https://github.com/AxLabs/venice-e2ee-proxy) - Run-it-locally proxy that adds end-to-end encryption to Venice.ai API calls. Plug any OpenAI-compatible agent or software without changes — requests are encrypted with verified TEE attestation (Intel TDX + NVIDIA GPU).
 
 
@@ -107,8 +108,8 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Azure Confidential Computing Offerings](https://azure.microsoft.com/en-us/solutions/confidential-compute/#products)
 * [Google Confidential Computing Offerings](https://cloud.google.com/confidential-computing)
 * [IBMCloud Confidential Computing Offerings](https://www.ibm.com/cloud/confidential-computing)
-* [AWS Confidential Computing Offerings](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
 * [Red Hat Confidential Containers](https://www.redhat.com/en/blog/learn-about-confidential-containers)
+* [AWS Confidential Computing Offerings](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
 * [ISV Offerings](https://www.ventureradar.com/keyword/Confidential%20Computing)
 
 ### Market and Adoption Studies
