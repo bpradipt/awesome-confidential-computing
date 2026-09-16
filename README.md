@@ -75,6 +75,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Intel Trust Authority](https://www.intel.com/content/www/us/en/security/trust-authority.html)
 * [Veraison - Open source attestation verification (CCC project)](https://github.com/veraison)
 * [Keylime - TPM-based remote attestation (CNCF project)](https://github.com/keylime/keylime)
+* [voltage-verify](https://github.com/Jabsama/voltage-verify) - Tenant-side verifier for Intel TDX quotes (offline DCAP) and NVIDIA GPU attestation reports on a caller-chosen nonce; ships dated evidence bundles, including a documented case where NVSwitch does not attest from inside a TDX guest.
 
 ## Confidential AI
 
