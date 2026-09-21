@@ -22,6 +22,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Survey of research on confidential computing (IET 2024)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12759)
 * [Confidential Computing Consortium – White Papers & Reports](https://confidentialcomputing.io/resources/white-papers-reports/)
 * [IDC Research: Confidential Computing as Strategic Imperative (2025)](https://confidentialcomputing.io/wp-content/uploads/sites/10/2025/11/US53866125.pdf)
+* [Confidential Computing: A Practical Deep dive](https://cc-book.github.io/cc-book/)
 
 ## Hardware with CC support
 
