@@ -113,6 +113,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [IBMCloud Confidential Computing Offerings](https://www.ibm.com/cloud/confidential-computing)
 * [Red Hat Confidential Containers](https://www.redhat.com/en/blog/learn-about-confidential-containers)
 * [AWS Confidential Computing Offerings](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
+* [Acurast - Confidential compute on smartphone TEEs](https://acurast.com/)
 * [ISV Offerings](https://www.ventureradar.com/keyword/Confidential%20Computing)
 
 ### Market and Adoption Studies
