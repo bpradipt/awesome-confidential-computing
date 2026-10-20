@@ -114,6 +114,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Red Hat Confidential Containers](https://www.redhat.com/en/blog/learn-about-confidential-containers)
 * [AWS Confidential Computing Offerings](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
 * [Acurast - Confidential compute on smartphone TEEs](https://acurast.com/)
+* [VoltageGPU - Confidential GPU VMs on Intel TDX](https://voltagegpu.com/confidential-compute) - H100, H200 and RTX PRO 6000 Blackwell VMs inside Intel TDX trust domains; the tenant generates the TDX quote and the NVIDIA GPU attestation from inside the VM and verifies both offline, with public proofs per GPU model.
 * [ISV Offerings](https://www.ventureradar.com/keyword/Confidential%20Computing)
 
 ### Market and Adoption Studies
