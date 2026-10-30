@@ -48,6 +48,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 ## CC Software Stack (Active and Open source)
 
 * [CNCF Confidential Containers](https://github.com/confidential-containers)
+* [C8s](https://github.com/confidential-dot-ai/C8s) - Open-source confidential Kubernetes: runs Kubernetes workloads inside hardware-backed TEEs.
 * [Libkrun](https://github.com/containers/libkrun#linux-sev-variant)
 * [Apache Teaclave](https://github.com/apache/incubator-teaclave)
 * [SCONE](https://sconedocs.github.io)
