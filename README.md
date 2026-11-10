@@ -115,6 +115,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [AWS Confidential Computing Offerings](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
 * [Acurast - Confidential compute on smartphone TEEs](https://acurast.com/)
 * [VoltageGPU - Confidential GPU VMs on Intel TDX](https://voltagegpu.com/confidential-compute) - H100, H200 and RTX PRO 6000 Blackwell VMs inside Intel TDX trust domains; the tenant generates the TDX quote and the NVIDIA GPU attestation from inside the VM and verifies both offline, with public proofs per GPU model.
+* [Hippius Confidential Compute - Confidential VMs on AMD SEV-SNP](https://hippius.com/confidential-compute) - Linux VMs, managed PostgreSQL, Kubernetes clusters and GitHub Actions runners inside AMD SEV-SNP confidential VMs on servers run by independent operators. The disk unlocks only after the VM's attestation checks out, and each VM's signed AMD attestation report can be checked by the user.
 * [ISV Offerings](https://www.ventureradar.com/keyword/Confidential%20Computing)
 
 ### Market and Adoption Studies
