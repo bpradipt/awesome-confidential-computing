@@ -92,7 +92,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Confidential Inference Directory](https://confidentialinference.net/) - Compare TEE-based AI inference providers by models, pricing, and live attestation evidence.
 * [venice-e2ee-proxy](https://github.com/AxLabs/venice-e2ee-proxy) - Run-it-locally proxy that adds end-to-end encryption to Venice.ai API calls. Plug any OpenAI-compatible agent or software without changes — requests are encrypted with verified TEE attestation (Intel TDX + NVIDIA GPU).
 * [SayGm](https://saygm.com) - OpenAI-compatible gateway to Claude, GPT, and open weight models that routes prompts through an Intel TDX. Fully confidential when served by a TEE Operator, privacy enhanced when routing to frontier labs.
-
+* [Super Protocol - Confidential AI Platform](https://superprotocol.com) - hardware-attested confidential AI execution on CPU and GPU TEEs for regulated industries
 
 ## Security Threats and Vulnerabilities
 
