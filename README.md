@@ -48,6 +48,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 ## CC Software Stack (Active and Open source)
 
 * [CNCF Confidential Containers](https://github.com/confidential-containers)
+* [C8s](https://github.com/confidential-dot-ai/C8s) - Open-source confidential Kubernetes: runs Kubernetes workloads inside hardware-backed TEEs.
 * [Libkrun](https://github.com/containers/libkrun#linux-sev-variant)
 * [Apache Teaclave](https://github.com/apache/incubator-teaclave)
 * [SCONE](https://sconedocs.github.io)
@@ -76,7 +77,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [Intel Trust Authority](https://www.intel.com/content/www/us/en/security/trust-authority.html)
 * [Veraison - Open source attestation verification (CCC project)](https://github.com/veraison)
 * [Keylime - TPM-based remote attestation (CNCF project)](https://github.com/keylime/keylime)
-* [voltage-verify](https://github.com/Jabsama/voltage-verify) - Tenant-side verifier for Intel TDX quotes (offline DCAP) and NVIDIA GPU attestation reports on a caller-chosen nonce; ships dated evidence bundles, including a documented case where NVSwitch does not attest from inside a TDX guest.
+* [voltage-verify](https://github.com/VoltageGPU/voltage-verify) - Tenant-side verifier for Intel TDX quotes (DCAP, online or offline with the collateral in the bundle) and NVIDIA GPU attestation tokens on a caller-chosen nonce; ships dated evidence bundles, including NVSwitch attestation from inside a TDX guest on 8x H100 and 8x H200 nodes in Protected PCIe mode (November 2026).
 
 ## Confidential AI
 
@@ -93,6 +94,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [venice-e2ee-proxy](https://github.com/AxLabs/venice-e2ee-proxy) - Run-it-locally proxy that adds end-to-end encryption to Venice.ai API calls. Plug any OpenAI-compatible agent or software without changes — requests are encrypted with verified TEE attestation (Intel TDX + NVIDIA GPU).
 * [SayGm](https://saygm.com) - OpenAI-compatible gateway to Claude, GPT, and open weight models that routes prompts through an Intel TDX. Fully confidential when served by a TEE Operator, privacy enhanced when routing to frontier labs.
 * [SealedIn - Attested LLM API gateway in Intel TDX in front of GPU enclaves](https://sealedin.ai/)
+* [Super Protocol](https://superprotocol.com) - Confidential AI platform: hardware-attested execution of AI workloads in CPU and GPU TEEs for regulated industries.
 
 
 ## Security Threats and Vulnerabilities
@@ -116,6 +118,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [AWS Confidential Computing Offerings](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
 * [Acurast - Confidential compute on smartphone TEEs](https://acurast.com/)
 * [VoltageGPU - Confidential GPU VMs on Intel TDX](https://voltagegpu.com/confidential-compute) - H100, H200 and RTX PRO 6000 Blackwell VMs inside Intel TDX trust domains; the tenant generates the TDX quote and the NVIDIA GPU attestation from inside the VM and verifies both offline, with public proofs per GPU model.
+* [Hippius Confidential Compute - Confidential VMs on AMD SEV-SNP](https://hippius.com/confidential-compute) - Linux VMs, managed PostgreSQL, Kubernetes clusters and GitHub Actions runners inside AMD SEV-SNP confidential VMs on servers run by independent operators. The disk unlocks only after the VM's attestation checks out, and each VM's signed AMD attestation report can be checked by the user.
 * [ISV Offerings](https://www.ventureradar.com/keyword/Confidential%20Computing)
 
 ### Market and Adoption Studies
