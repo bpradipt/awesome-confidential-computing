@@ -95,6 +95,7 @@ Source: [Understanding a confidential computing solution](https://bit.ly/cc-solu
 * [SayGm](https://saygm.com) - OpenAI-compatible gateway to Claude, GPT, and open weight models that routes prompts through an Intel TDX. Fully confidential when served by a TEE Operator, privacy enhanced when routing to frontier labs.
 * [SealedIn - Attested LLM API gateway in Intel TDX in front of GPU enclaves](https://sealedin.ai/)
 * [Super Protocol](https://superprotocol.com) - Confidential AI platform: hardware-attested execution of AI workloads in CPU and GPU TEEs for regulated industries.
+* [OpenAI's Private Inference, explained: what it seals, and what it doesn't](https://www.grep.tips/articles/openai-private-inference-explained) - Plain-language read of OpenAI's confidential-computing inference announcement and the limits in its white paper.
 
 
 ## Security Threats and Vulnerabilities
